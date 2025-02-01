@@ -42,6 +42,7 @@
             font-size: 20px; /* 设置字体大小，可以根据需要调整 */
         }
         
+        
         body {
             font-family: sans-serif; /* 选择你喜欢的字体 */
         }
@@ -56,6 +57,17 @@
         
         a{text-decoration: none;color: inherit;display: block;}
         h1 {text-align: center}
+        
+
+        main>img {
+            margin-left: 10px; /* 向右移动10像素 */
+            transform: translateY(7px); /* 向下移动5像素 */
+            float: left; /* 将图像浮动到左侧 */
+            margin-right: 10px; /* 添加右边距以分隔图像和文本 */
+            pointer-events: none; /* 使图像对鼠标事件透明 */
+            width: 32px;   /* 设置图像宽度为32像素 */
+            height: 32px;  /* 设置图像高度为32像素 */
+        }
 
         /* 当屏幕宽度大于800px时应用的样式 */
         @media screen and (min-width: 800px) {
@@ -69,21 +81,74 @@
             display: revert;
             float: right;
             margin-right: 4px;
-            margin-top: -56px;
+            margin-top: -56.5px;
             padding: 6px; 
             border-radius: 9px;
         }
+        
+        
+        /* img 默认样式（浅色模式） */
+        img.ssms {
+            display: none;
+        }
+
+        img.qsms {
+           display: inline;
+        }
+
+        /* img 深色模式样式 */
+        @media (prefers-color-scheme: dark) {
+            img.ssms {
+                display: inline;
+       }
+
+       img.qsms {
+           display: none;
+       }}
+        
     </style>
+
+    <script type="text/javascript" src="//api.tongjiniao.com/c?_=742968539085373440" async></script>
+</head>
+<body>
+
     <script>
+        // 在新标签页打开链接
         document.addEventListener('DOMContentLoaded', function() {
         document.querySelectorAll('a').forEach(link => {
             link.setAttribute('target', '_blank');
         });
     });
     </script>
-    <script type="text/javascript" src="//api.tongjiniao.com/c?_=742968539085373440" async></script>
-</head>
-<body>
+    
+    <canvas id="icro" width="64" height="64" style="display:none;"></canvas>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var canvas = document.getElementById('icro');
+            var ctx = canvas.getContext('2d');
+
+            // 设置文字属性
+            ctx.font = '48px Arial'; // 调整字体大小以适应更大的画布
+            ctx.fillStyle = 'black';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+
+            // 在Canvas中央绘制文字
+            var text = '🧭'; // 你要作为图标的文字
+            ctx.fillText(text, canvas.width / 2, canvas.height / 2);
+
+            // 将Canvas内容转换为PNG图像数据URL
+            var imgData = canvas.toDataURL("image/png");
+
+            // 创建并添加favicon
+            var link = document.createElement('link');
+            link.type = 'image/x-icon';
+            link.rel = 'shortcut icon';
+            link.href = imgData;
+            document.getElementsByTagName('head')[0].appendChild(link);
+        });
+    </script>
+    
     <header>
         <nav>
             <table>
@@ -97,57 +162,82 @@
         </nav>
     </header>
     <main>
+    
         <h1>AI 导航</h1>
         
-        
+        <img src="https://tensorflow.google.cn/favicon.ico">
         <a href="https://tensorflow.google.cn/">TensorFlow</a>
         <a id=git href="https://github.com/tensorflow/">GitHub</a>
-           
+        
+        <img class="qsms" src="https://framerusercontent.com/images/xLua1HTBhc2ktuF5x3hJafStVWg.png">
+        <img class="ssms" src="https://framerusercontent.com/images/vAjSS5GspLV7OgwkI9SR4hRdWY.png">
         <a href="https://agpt.co/">AutoGPT</a>
         <a id=git href="https://github.com/Significant-Gravitas/AutoGPT">GitHub</a>
         
+        <img src="https://avatars.githubusercontent.com/u/20920490?s=64">
         <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion web UI</a>
-        <a id=git>NO</a>
+        <a id=git href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">←</a>
         
+        <img src="https://huggingface.co/favicon.ico">
         <a href="https://huggingface.co/">Hugging Face</a>
         <a id=git href="https://github.com/huggingface/">GitHub</a>
         
+        <img src="https://huggingface.co/favicon.ico">
         <a href="https://huggingface.co/transformers/">Transformers</a>
         <a id=git href="https://github.com/huggingface/transformers">GitHub</a>
         
+        <img src="https://ollama.com/public/icon-64x64.png">
         <a href="https://ollama.com/">Ollama</a>
         <a id=git href="https://github.com/ollama/ollama">GitHub</a>
         
+        <img src="https://pytorch.org/favicon.ico">
         <a href="https://pytorch.org/">PyTorch</a>
         <a id=git href="https://github.com/pytorch">GitHub</a>
-
+        
+        <img src="https://www.mindspore.cn/favicon.ico">
         <a href="https://www.mindspore.cn/">MindSpore</a>
         <a id=git href="https://gitee.com/mindspore/mindspore">Gitee</a>
-
-        <a href="http://zh.d2l.ai/">动手学深度学习</a>
+        
+        <img src="https://zh.d2l.ai/_static/favicon.png">
+        <a href="https://zh.d2l.ai/">动手学深度学习</a>
         <a id=git href="https://github.com/d2l-ai/d2l-zh" style="margin-top: -58px;">GitHub</a>
         
-        <a href="https://microsoft.github.io/generative-ai-for-beginners/">生成 AI 初学者 (版本 3)</a>
+        <img src="https://microsoft.github.io/generative-ai-for-beginners/images/favicon-32x32.png">
+        <a href="https://microsoft.github.io/generative-ai-for-beginners/">生成 AI 初学者</a>
         <a id=git href="https://github.com/Microsoft/generative-ai-for-beginners" style="margin-top: -58px;">GitHub</a>
         
+        <img src="https://dl.caai.cn/html/images/icon-tushuziyuan.svg">
+        <a href="https://dl.caai.cn/">中国人工智能学会图书馆</a>
+        
+        <img src="https://lobehub.com/favicon.ico">
+        <a href="https://lobehub.com/zh">Lobe Chat</a>
+        <a id=git href="https://github.com/lobehub/lobe-chat">GitHub</a>
+        
+        <img src="https://openwebui.com/favicon.ico">
         <a href="https://openwebui.com/">Open WebUI</a>
         <a id=git href="https://github.com/open-webui/open-webui">GitHub</a>
         
+        <img src="https://framerusercontent.com/images/tCHbBovHGLAJDNKRG1lKfavenFs.png">
         <a href="https://nextchat.dev/">NextChat</a>
         <a id=git href="https://github.com/ChatGPTNextWeb/NextChat">GitHub</a>
         
+        <img src="https://pic2.zhimg.com/50/v2-11b13835e16e73d4ac4f6a03fb4f4159_l.jpg">
         <a href="https://zhuanlan.zhihu.com/yangyangfuture">funNLP</a>
         <a id=git href="https://github.com/fighting41love/funNLP">GitHub</a>
         
+        <img src="https://www.python.org/favicon.ico">
         <a href="https://www.python.org/">Python</a>
         <a id=git href="https://github.com/python/cpython">GitHub</a>
         
+        <img src="https://netron.app/favicon.ico">
         <a href="https://netron.app/">Netron</a>
         <a id=git href="https://github.com/lutzroeder/netron">GitHub</a>
-
+        
+        <img src="https://jupyter.org/favicon.ico">
         <a href="https://jupyter.org/">Jupyter</a>
         <a id=git href="https://github.com/jupyter/">GitHub</a>
         
     </main>
+    
 </body>
 </html>
