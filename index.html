@@ -11,7 +11,7 @@
             width: 100%; /* 确保表格占满容器宽度 */
             border-collapse: separate; /* 分开单元格边框 */
             border-spacing: 0; /* 单元格之间无间距 */
-            border: 1px solid; /* 表格外边框 */
+            border: 0.5px solid; /* 表格外边框 */
             border-radius: 7px; /* 圆角边框 */
             font-size: 20px;
         }
@@ -20,8 +20,8 @@
         td {
             text-align: center; /* 文本居中 */
             padding: 7px; /* 内边距 */
-            border-right: 1px solid; /* 单元格右边框 */
-            border-bottom: 1px solid; /* 单元格下边框 */
+            border-right: 0.5px solid; /* 单元格右边框 */
+            border-bottom: 0.5px solid; /* 单元格下边框 */
         }
         
         /* 去掉最后一个单元格的右边框 */
@@ -35,13 +35,12 @@
         }
         
         main,main>a {
-            border: 1px solid; /* 边框 */
+            border: 0.5px solid; /* 边框 */
             padding: 10px; /* 内边距 */
             margin: 15px auto; /* 外边距，水平居中 */
             border-radius: 10px; /* 圆角边框 */
             font-size: 20px; /* 设置字体大小，可以根据需要调整 */
         }
-        
         
         body {
             font-family: sans-serif; /* 选择你喜欢的字体 */
@@ -56,12 +55,11 @@
         }
         
         a{text-decoration: none;color: inherit;display: block;}
-        h1 {text-align: center}
+        h1 {text-align: center;font-weight: normal;}
         
-
         main>img {
             margin-left: 10px; /* 向右移动10像素 */
-            transform: translateY(7px); /* 向下移动5像素 */
+            transform: translateY(6px); /* 向下移动6像素 */
             float: left; /* 将图像浮动到左侧 */
             margin-right: 10px; /* 添加右边距以分隔图像和文本 */
             pointer-events: none; /* 使图像对鼠标事件透明 */
@@ -81,7 +79,7 @@
             display: revert;
             float: right;
             margin-right: 4px;
-            margin-top: -56.5px;
+            margin-top: -55px;
             padding: 6px;
             border-radius: 9px;
         }
@@ -90,7 +88,7 @@
             display: revert;
             float: right;
             margin-right: 88px;
-            margin-top: -56.5px;
+            margin-top: -55px;
             padding: 6px;
             border-radius: 9px;
         }
@@ -194,24 +192,22 @@
         <a id="doc" href="https://huggingface.co/Docs">📖</a>
         
         <img src="https://huggingface.co/favicon.ico">
-        <a href="https://huggingface.co/transformers/">Transformers 📖</a>
+        <a href="https://huggingface.co/transformers/">Transformers Docs</a>
         <a id=git href="https://github.com/huggingface/transformers">GitHub</a>
         
         <img src="https://ollama.com/public/icon-64x64.png">
         <a href="https://ollama.com/">Ollama</a>
         <a id=git href="https://github.com/ollama/ollama">GitHub</a>
         <a id="doc" href="https://github.com/ollama/ollama/tree/main/docs">📖</a>
-        <a id="doc" href="https://ollama.com/blog" style="margin-right: 131px;">Blog</a>
         
         <img src="https://pytorch.org/favicon.ico">
         <a href="https://pytorch.org/">PyTorch</a>
         <a id=git href="https://github.com/pytorch">GitHub</a>
         <a id="doc" href="https://pytorch.org/docs/stable/index.html">📖</a>
-        <a id="doc" href="https://pytorch.org/blog/" style="margin-right: 131px;">Blog</a>
         
         <img src="https://www.mindspore.cn/favicon.ico">
         <a href="https://www.mindspore.cn/">MindSpore</a>
-        <a id=git href="https://gitee.com/mindspore/mindspore">Gitee</a>
+        <a id=git href="https://gitee.com/mindspore/mindspore" style="margin-right: 10px;">Gitee</a>
         <a id="doc" href="https://www.mindspore.cn/view">📖</a>
 
         <img src="https://g.alicdn.com/sail-web/maas/2.5.6/favicon/128.ico">
@@ -221,17 +217,16 @@
         
         <img src="https://zh.d2l.ai/_static/favicon.png">
         <a href="https://zh.d2l.ai/">动手学深度学习</a>
-        <a id=git href="https://github.com/d2l-ai/d2l-zh" style="margin-top: -58px;">GitHub</a>
+        <a id=git href="https://github.com/d2l-ai/d2l-zh" style="margin-top: -57px;">GitHub</a>
         
         <img src="https://microsoft.github.io/generative-ai-for-beginners/images/favicon-32x32.png">
         <a href="https://microsoft.github.io/generative-ai-for-beginners/">生成 AI 初学者</a>
-        <a id=git href="https://github.com/Microsoft/generative-ai-for-beginners" style="margin-top: -58px;">GitHub</a>
+        <a id=git href="https://github.com/Microsoft/generative-ai-for-beginners" style="margin-top: -57px;">GitHub</a>
         
         <img src="https://lobehub.com/favicon.ico">
         <a href="https://lobehub.com/zh">Lobe Chat</a>
         <a id=git href="https://github.com/lobehub/lobe-chat">GitHub</a>
         <a id="doc" href="https://lobehub.com/zh/docs/usage/start">📖</a>
-        <a id="doc" href="https://lobehub.com/zh/blog" style="margin-right: 131px;">BK</a>
         
         <img src="https://openwebui.com/favicon.ico">
         <a href="https://openwebui.com/">Open WebUI</a>
@@ -251,24 +246,20 @@
         <a href="https://www.python.org/">Python</a>
         <a id=git href="https://github.com/python/cpython">GitHub</a>
         <a id="doc" href="https://docs.python.org/">📖</a>
-        <a id="doc" href="https://pypi.org/" style="margin-right: 131px;">PyPI</a>
 
-        <a href="https://www.deepspeed.ai/">DeepSpeed</a>
+        <a href="https://www.deepspeed.ai/">🌐 DeepSpeed</a>
         <a id=git href="https://github.com/microsoft/DeepSpeed">GitHub</a>
         <a id="doc" href="https://deepspeed.readthedocs.io/">📖</a>
-        <a id="doc" href="https://www.deepspeed.ai/posts/" style="margin-right: 131px;">Blog</a>
         
         <img src="https://lightning.ai/favicon/favicon.ico">
         <a href="https://lightning.ai/">Lightning</a>
         <a id=git href="https://github.com/Lightning-AI/pytorch-lightning">GitHub</a>
         <a id="doc" href="https://lightning.ai/docs/pytorch/stable/">📖</a>
-        <a id="doc" href="https://lightning.ai/blog/" style="margin-right: 131px;">BK</a>
         
         <img src="https://www.determined.ai/favicon.ico">
         <a href="https://www.determined.ai/">Determined</a>
-        <a id=git href="https://github.com/determined-ai/determined">Hub</a>
-        <a id="doc" href="https://docs.determined.ai/latest/" style="margin-right: 61px;">📖</a>
-        <a id="doc" href="https://www.determined.ai/blog" style="margin-right: 105px;">BK</a>
+        <a id=git href="https://github.com/determined-ai/determined">GitHub</a>
+        <a id="doc" href="https://docs.determined.ai/latest/">📖</a>
         
         <img src="https://netron.app/favicon.ico">
         <a href="https://netron.app/">Netron</a>
@@ -278,13 +269,14 @@
         <a href="https://jupyter.org/">Jupyter</a>
         <a id=git href="https://github.com/jupyter/">GitHub</a>
         <a id="doc" href="https://docs.jupyter.org/">📖</a>
-        <a id="doc" href="https://ollama.com/blog" style="margin-right: 132px;">X</a>
         
         <img src="https://dl.caai.cn/html/images/icon-tushuziyuan.svg">
         <a href="https://dl.caai.cn/">中国人工智能学会图书馆</a>
-        <a id=git href="https://caai.cn/" style="margin-top: -58px;">🌐</a>
+        <a id=git href="https://caai.cn/" style="margin-top: -57px;">🌐</a>
         
     </main>
+    
+    <p style="opacity: 0.3;">注：图标是从它们网站加载的，可能会加载失败</p>
     
 </body>
 </html>
