@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人工智能导航</title>
+    
+    <!-- Markdown解析器 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- GitHub风格样式 -->
+    <link rel="stylesheet" 
+          href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
+</head>
+
+<body>
+    <div class="markdown-body" id="content"></div>
+
+    <script>
+        // 异步加载Markdown内容
+        fetch('README.md')
+      .then(res => res.text())
+      .then(md => {
+        document.getElementById('content').innerHTML = marked.parse(md);
+      });
+    </script>
+</body>
+</html>
