@@ -24,3 +24,5 @@
 | [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
 | [Jupyter](https://jupyter.org/) | [📖](https://docs.jupyter.org/) | [GitHub](https://github.com/jupyter/) |
 | [中国人工智能学会图书馆](https://dl.caai.cn/) | | [🌐](https://caai.cn/) |
+| [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
+| []() | [📖]() | [GitHub]() |
