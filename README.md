@@ -30,8 +30,19 @@
 | [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
 | [AnythingLLM](https://anythingllm.com/) | [📖](https://docs.anythingllm.com/) | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
 | [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) |  | ← |
+| [Awesome ChatGPT Prompts](https://prompts.chat/) | ↔ | [GitHub](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file) |
+| [Dify](https://dify.ai/) | [📖](https://docs.dify.ai/) | [GitHub](https://github.com/langgenius/dify) |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | [📖](https://github.com/ggml-org/llama.cpp/tree/master/docs) | ← |
+| [GPT4All](https://nomic.ai/gpt4all) | [📖](https://docs.gpt4all.io/) | [GitHub](https://github.com/nomic-ai/gpt4all) |
+| [GPT Academic](https://github.com/binary-husky/gpt_academic) | [📖](https://github.com/binary-husky/gpt_academic/tree/master/docs) | ← |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | [📖](https://docs.all-hands.dev/modules/usage/getting-started) | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
+| [LLM course](https://github.com/mlabonne/llm-course) | ← | ← |
+| [Browser Use](https://browser-use.com/) | [📖](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use) |
+| [RAGFlow](ragflow.io) | [📖](https://ragflow.io/docs/dev/) | [GitHub](https://github.com/infiniflow/ragflow) |
+| [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory/blob/main/README_zh.md) | [📖](https://zhuanlan.zhihu.com/p/695287607) | ← |
 | []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
+部分项目的文档也可以在GitHub上找到，可能要更全&新
 
 [社区](https://pd.qq.com/s/btedy8g4v?businessType=9) | [GitHub](https://github.com/lqvsyi/aidh/) | [捐款](https://lqvsyi.github.io/aidh/jk)
