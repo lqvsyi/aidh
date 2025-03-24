@@ -30,3 +30,5 @@
 | []() | [📖]() | [GitHub]() |
 
 ！TF网站的语言建议改成英文，因为它是新的
+
+[社区](https://pd.qq.com/s/btedy8g4v?businessType=9) [GitHub](https://github.com/lqvsyi/aidh/) [捐款](https://lqvsyi.github.io/aidh/jk)
