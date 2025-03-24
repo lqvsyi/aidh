@@ -28,8 +28,10 @@
 | [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
 | [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
 | [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
+| [AnythingLLM](https://anythingllm.com/) | [📖](https://docs.anythingllm.com/) | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
+| [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) |  | ← |
 | []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
 
-[社区](https://pd.qq.com/s/btedy8g4v?businessType=9) [GitHub](https://github.com/lqvsyi/aidh/) [捐款](https://lqvsyi.github.io/aidh/jk)
+[社区](https://pd.qq.com/s/btedy8g4v?businessType=9) | [GitHub](https://github.com/lqvsyi/aidh/) | [捐款](https://lqvsyi.github.io/aidh/jk)
