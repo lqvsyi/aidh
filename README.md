@@ -25,4 +25,8 @@
 | [Jupyter](https://jupyter.org/) | [📖](https://docs.jupyter.org/) | [GitHub](https://github.com/jupyter/) |
 | [中国人工智能学会](https://caai.cn/) | [📖](https://dl.caai.cn/) | []() |
 | [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
+| [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
+| [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
 | []() | [📖]() | [GitHub]() |
+
+！TF网站的语言建议改成英文，因为它是新的
