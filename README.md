@@ -43,6 +43,7 @@
 | []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
+
 部分项目的文档也可以在GitHub上找到，可能要更全&新
 
 [社区](https://pd.qq.com/s/btedy8g4v?businessType=9) | [GitHub](https://github.com/lqvsyi/aidh/) | [捐款](https://lqvsyi.github.io/aidh/jk)
