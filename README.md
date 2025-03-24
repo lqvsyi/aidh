@@ -27,8 +27,9 @@
 | [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
 | [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
 | [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
+| [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
 | []() | [📖]() | [GitHub]() |
 
-！TF网站的语言建议改成英文，因为它是新的
+TF网站的显示语言建议改成英文，因为它是新的
 
 [社区](https://pd.qq.com/s/btedy8g4v?businessType=9) [GitHub](https://github.com/lqvsyi/aidh/) [捐款](https://lqvsyi.github.io/aidh/jk)
