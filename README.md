@@ -1,6 +1,6 @@
 # 人工智能导航
 
-| 名称 | 文档 | GitHub |
+| 名称 | 文档 | 源码 |
 | --- | --- | --- |
 | [TensorFlow](https://tensorflow.google.cn/) | [📖](https://tensorflow.google.cn/learn) | [GitHub](https://github.com/tensorflow/) |
 | [AutoGPT](https://agpt.co/) | [📖](https://docs.agpt.co/) | [GitHub](https://github.com/Significant-Gravitas/AutoGPT) |
@@ -23,6 +23,6 @@
 | [Determined](https://www.determined.ai/) | [📖](https://docs.determined.ai/latest/) | [GitHub](https://github.com/determined-ai/determined) |
 | [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
 | [Jupyter](https://jupyter.org/) | [📖](https://docs.jupyter.org/) | [GitHub](https://github.com/jupyter/) |
-| [中国人工智能学会图书馆](https://dl.caai.cn/) | | [🌐](https://caai.cn/) |
+| [中国人工智能学会](https://caai.cn/) | [📖](https://dl.caai.cn/) | []() |
 | [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
 | []() | [📖]() | [GitHub]() |
