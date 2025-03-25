@@ -24,26 +24,26 @@
 | <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
 | <img src="https://jupyter.org/favicon.ico" width="18"> [Jupyter](https://jupyter.org/) | [📖](https://docs.jupyter.org/) | [GitHub](https://github.com/jupyter/) |
 | <img src="https://dl.caai.cn/html/images/icon-tushuziyuan.svg" width="18"> [中国人工智能学会](https://caai.cn/) | [📖](https://dl.caai.cn/) | []() |
-| [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
-| [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
-| [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
-| [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
-| [AnythingLLM](https://anythingllm.com/) | [📖](https://docs.anythingllm.com/) | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
-| [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) |  | ← |
-| [Awesome ChatGPT Prompts](https://prompts.chat/) | ↔ | [GitHub](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file) |
-| [Dify](https://dify.ai/) | [📖](https://docs.dify.ai/) | [GitHub](https://github.com/langgenius/dify) |
-| [llama.cpp](https://github.com/ggml-org/llama.cpp) | [📖](https://github.com/ggml-org/llama.cpp/tree/master/docs) | ← |
-| [GPT4All](https://nomic.ai/gpt4all) | [📖](https://docs.gpt4all.io/) | [GitHub](https://github.com/nomic-ai/gpt4all) |
-| [GPT Academic](https://github.com/binary-husky/gpt_academic) | [📖](https://github.com/binary-husky/gpt_academic/tree/master/docs) | ← |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | [📖](https://docs.all-hands.dev/modules/usage/getting-started) | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
-| [LLM course](https://github.com/mlabonne/llm-course) | ← | ← |
-| [Browser Use](https://browser-use.com/) | [📖](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use) |
-| [RAGFlow](ragflow.io) | [📖](https://ragflow.io/docs/dev/) | [GitHub](https://github.com/infiniflow/ragflow) |
-| [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory/blob/main/README_zh.md) | [📖](https://zhuanlan.zhihu.com/p/695287607) | ← |
-| [LlamaIndex](https://www.llamaindex.ai/) | [📖](https://docs.llamaindex.ai/) | [GitHub](https://github.com/run-llama/llama_index) |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | ← | ← |
-| [vLLM](https://docs.vllm.ai/) | ← | [GitHub](https://github.com/vllm-project/vllm) |
-| []() | [📖]() | [GitHub]() |
+| <img src="https://oumi.ai/favicon.ico" width="18"> [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
+| <img src="https://avatars.githubusercontent.com/u/5512552?s=48&v=4" width="18"> [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
+| <img src="https://avatars.githubusercontent.com/u/1356007?s=48&v=4" width="18"> [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
+| <img src="https://www.firecrawl.dev/favicon.ico" width="18"> [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
+| <img src="https://framerusercontent.com/images/EIbT8RYrTi16Lw425LfvWGrnqg.svg" width="18"> [AnythingLLM](https://anythingllm.com/) | [📖](https://docs.anythingllm.com/) | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
+| <img src="https://avatars.githubusercontent.com/u/181645205?s=48&v=4" width="18"> [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) |  | ← |
+| 🌐 [Awesome ChatGPT Prompts](https://prompts.chat/) | ↔ | [GitHub](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file) |
+| <img src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png" width="18"> [Dify](https://dify.ai/) | [📖](https://docs.dify.ai/) | [GitHub](https://github.com/langgenius/dify) |
+| <img src="https://avatars.githubusercontent.com/u/134263123?s=48&v=4" width="18"> [llama.cpp](https://github.com/ggml-org/llama.cpp) | [📖](https://github.com/ggml-org/llama.cpp/tree/master/docs) | ← |
+| <img src="https://www.nomic.ai/favicon.ico" width="18"> [GPT4All](https://nomic.ai/gpt4all) | [📖](https://docs.gpt4all.io/) | [GitHub](https://github.com/nomic-ai/gpt4all) |
+| <img src="https://avatars.githubusercontent.com/u/96192199?s=48&v=4" width="18"> [GPT Academic](https://github.com/binary-husky/gpt_academic) | [📖](https://github.com/binary-husky/gpt_academic/tree/master/docs) | ← |
+| <img src="https://www.all-hands.dev/all-hands-logo-1.svg" width="18"> [OpenHands](https://www.all-hands.dev/) | [📖](https://docs.all-hands.dev/) | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
+| <img src="https://avatars.githubusercontent.com/u/81252890?s=48&v=4" width="18"> [LLM course](https://github.com/mlabonne/llm-course) | ← | ← |
+| <img src="https://browser-use.com/favicon.ico" width="18"> [Browser Use](https://browser-use.com/) | [📖](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use) |
+| <img src="https://ragflow.io/img/logo.svg" width="18"> [RAGFlow](https://ragflow.io/) | [📖](https://ragflow.io/docs/dev/) | [GitHub](https://github.com/infiniflow/ragflow) |
+| <img src="https://avatars.githubusercontent.com/u/16256802?s=48&v=4" width="18"> [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory/blob/main/README_zh.md) | [📖](https://zhuanlan.zhihu.com/p/695287607) | ← |
+| <img src="https://www.llamaindex.ai/favicon-32x32.png" width="18"> [LlamaIndex](https://www.llamaindex.ai/) | [📖](https://docs.llamaindex.ai/) | [GitHub](https://github.com/run-llama/llama_index) |
+| <img src="https://avatars.githubusercontent.com/u/5618407?s=48&v=4" width="18"> [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | ← | ← |
+| <img src="https://docs.vllm.ai/en/latest/_static/vllm-logo-only-light.ico" width="18"> [vLLM](https://docs.vllm.ai/) | ← | [GitHub](https://github.com/vllm-project/vllm) |
+| <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
 
