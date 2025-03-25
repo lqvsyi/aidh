@@ -18,7 +18,7 @@
 | <img src="https://framerusercontent.com/images/tCHbBovHGLAJDNKRG1lKfavenFs.png" width="18"> [NextChat](https://nextchat.dev/) | [📖](https://github.com/ChatGPTNextWeb/NextChat/tree/main/docs) | [GitHub](https://github.com/ChatGPTNextWeb/NextChat) |
 | <img src="https://pic2.zhimg.com/50/v2-11b13835e16e73d4ac4f6a03fb4f4159_l.jpg" width="18"> [funNLP](https://zhuanlan.zhihu.com/yangyangfuture) | | [GitHub](https://github.com/fighting41love/funNLP) |
 | <img src="https://www.python.org/favicon.ico" width="18"> [Python](https://www.python.org/) | [📖](https://docs.python.org/) | [GitHub](https://github.com/python/cpython) |
-| 🌐 [DeepSpeed](https://www.deepspeed.ai/) | [📖](https://deepspeed.readthedocs.io/) | [GitHub](https://github.com/microsoft/DeepSpeed) |
+| <img src="https://avatars.githubusercontent.com/u/74068820?s=48&v=4" width="18"> [DeepSpeed](https://www.deepspeed.ai/) | [📖](https://deepspeed.readthedocs.io/) | [GitHub](https://github.com/microsoft/DeepSpeed) |
 | <img src="https://lightning.ai/favicon/favicon.ico" width="18"> [Lightning](https://lightning.ai/) | [📖](https://lightning.ai/docs/pytorch/stable/) | [GitHub](https://github.com/Lightning-AI/pytorch-lightning) |
 | <img src="https://www.determined.ai/favicon.ico" width="18"> [Determined](https://www.determined.ai/) | [📖](https://docs.determined.ai/latest/) | [GitHub](https://github.com/determined-ai/determined) |
 | <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
@@ -30,7 +30,7 @@
 | <img src="https://www.firecrawl.dev/favicon.ico" width="18"> [Firecrawl](https://www.firecrawl.dev/) | [📖](https://docs.firecrawl.dev/) | [GitHub](https://github.com/mendableai/firecrawl) |
 | <img src="https://framerusercontent.com/images/EIbT8RYrTi16Lw425LfvWGrnqg.svg" width="18"> [AnythingLLM](https://anythingllm.com/) | [📖](https://docs.anythingllm.com/) | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
 | <img src="https://avatars.githubusercontent.com/u/181645205?s=48&v=4" width="18"> [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) |  | ← |
-| 🌐 [Awesome ChatGPT Prompts](https://prompts.chat/) | ↔ | [GitHub](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file) |
+| <img src="https://avatars.githubusercontent.com/u/196477?s=48&v=4" width="18"> [Awesome ChatGPT Prompts](https://prompts.chat/) | ↔ | [GitHub](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file) |
 | <img src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png" width="18"> [Dify](https://dify.ai/) | [📖](https://docs.dify.ai/) | [GitHub](https://github.com/langgenius/dify) |
 | <img src="https://avatars.githubusercontent.com/u/134263123?s=48&v=4" width="18"> [llama.cpp](https://github.com/ggml-org/llama.cpp) | [📖](https://github.com/ggml-org/llama.cpp/tree/master/docs) | ← |
 | <img src="https://www.nomic.ai/favicon.ico" width="18"> [GPT4All](https://nomic.ai/gpt4all) | [📖](https://docs.gpt4all.io/) | [GitHub](https://github.com/nomic-ai/gpt4all) |
