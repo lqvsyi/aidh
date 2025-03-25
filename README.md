@@ -40,6 +40,9 @@
 | [Browser Use](https://browser-use.com/) | [📖](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use) |
 | [RAGFlow](ragflow.io) | [📖](https://ragflow.io/docs/dev/) | [GitHub](https://github.com/infiniflow/ragflow) |
 | [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory/blob/main/README_zh.md) | [📖](https://zhuanlan.zhihu.com/p/695287607) | ← |
+| [LlamaIndex](https://www.llamaindex.ai/) | [📖](https://docs.llamaindex.ai/) | [GitHub](https://github.com/run-llama/llama_index) |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | ← | ← |
+| [vLLM](https://docs.vllm.ai/) | ← | [GitHub](https://github.com/vllm-project/vllm) |
 | []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
