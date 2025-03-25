@@ -46,10 +46,23 @@
 | <img src="https://cdn.prod.website-files.com/65bae8c84334d8deee06c34b/65d2bed19cb7c96fa5af33c9_Quivr_logo_Black_favicon.png" width="18"> [Quivr](https://www.quivr.com/) | [📖](https://core.quivr.com/) | [GitHub](https://github.com/QuivrHQ/quivr) |
 | <img src="https://flowiseai.com/favicon.ico" width="18"> [Flowise](https://flowiseai.com/) | [📖](https://docs.flowiseai.com/) | [GitHub](https://github.com/FlowiseAI/Flowise) |
 | <img src="https://www.ray.io/favicon-96x96.png" width="18"> [Ray](https://www.ray.io/) | [📖](https://docs.ray.io/) | [GitHub](https://github.com/ray-project/ray) |
+| <img src="https://docs.link-ai.tech/favicon.ico" width="18"> [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | [📖](https://docs.link-ai.tech/cow) | ← |
+| <img src="https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png?width=128&quality=80&format=auto" width="18"> [Unsloth](https://unsloth.ai/) | [📖](https://docs.unsloth.ai/) | [GitHub](https://github.com/unslothai/unsloth) |
+| <img src="https://avatars.githubusercontent.com/u/139558948?s=48&v=4" width="18"> [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | [📖](https://github.com/chatchat-space/Langchain-Chatchat/tree/master/docs) | ← |
+| <img src="https://avatars.githubusercontent.com/u/12494079?s=48&v=4" width="18"> [Crawl4AI](https://github.com/unclecode/crawl4ai) | [📖](https://crawl4ai.com/) | ← |
+| <img src="https://chatboxai.app/favicon.ico" width="18"> [Chatbox AI](https://chatboxai.app/) | [📖](https://github.com/chatboxai/chatbox/tree/main/doc) | [GitHub](https://github.com/chatboxai/chatbox/tree/main/doc) |
+| <img src="https://milvus.io/favicon.ico" width="18"> [Milvus](https://milvus.io/) | [📖](https://milvus.io/docs) | [GitHub](https://github.com/milvus-io/milvus) |
+| <img src="https://localai.io/favicon.ico" width="18"> [LocalAI](https://localai.io/) | [📖](https://github.com/mudler/LocalAI/tree/master/docs) | [GitHub](https://github.com/mudler/LocalAI?tab=readme-ov-file) |
+| <img src="https://framerusercontent.com/images/LtEXnFLiJX1cwgur9xfzNiadNy0.png" width="18"> [KHOJ](https://khoj.dev/) | [📖](https://docs.khoj.dev/) | [GitHub](https://github.com/khoj-ai/khoj) |
+| <img src="https://framerusercontent.com/images/Ekk9VlcIzXMrrfQS4NHj9fdEKKE.png" width="18"> [Mem0](https://mem0.ai/) | [📖](https://docs.mem0.ai/) | [GitHub](https://github.com/mem0ai/mem0) |
+| <img src="https://avatars.githubusercontent.com/u/89920203?s=48&v=4" width="18"> [ChatDev](https://github.com/OpenBMB/ChatDev) | [📖](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md) | ← |
+| <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [llm.c](https://github.com/karpathy/llm.c) | [📖](https://github.com/karpathy/llm.c/tree/master/doc/layernorm) | [GitHub]() |
+| <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [📖]() | [GitHub]() |
+| <img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/665253511c9fe499ba28f6c5_Logo_32x32%20(1).png" width="18"> [Continue](https://www.continue.dev/) | [📖](https://docs.continue.dev/) | [GitHub](https://github.com/continuedev/continue) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
 
-部分项目的文档也可以在GitHub上找到，可能要更全&新
+部分项目的文档也可以在GitHub上找到
 
 [社区](https://pd.qq.com/s/btedy8g4v?businessType=9) | [GitHub](https://github.com/lqvsyi/aidh/) | [捐款](https://lqvsyi.github.io/aidh/jk)
