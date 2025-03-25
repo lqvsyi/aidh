@@ -43,6 +43,9 @@
 | <img src="https://www.llamaindex.ai/favicon-32x32.png" width="18"> [LlamaIndex](https://www.llamaindex.ai/) | [📖](https://docs.llamaindex.ai/) | [GitHub](https://github.com/run-llama/llama_index) |
 | <img src="https://avatars.githubusercontent.com/u/5618407?s=48&v=4" width="18"> [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | ← | ← |
 | <img src="https://docs.vllm.ai/en/latest/_static/vllm-logo-only-light.ico" width="18"> [vLLM](https://docs.vllm.ai/) | ← | [GitHub](https://github.com/vllm-project/vllm) |
+| <img src="https://cdn.prod.website-files.com/65bae8c84334d8deee06c34b/65d2bed19cb7c96fa5af33c9_Quivr_logo_Black_favicon.png" width="18"> [Quivr](https://www.quivr.com/) | [📖](https://core.quivr.com/) | [GitHub](https://github.com/QuivrHQ/quivr) |
+| <img src="https://flowiseai.com/favicon.ico" width="18"> [Flowise](https://flowiseai.com/) | [📖](https://docs.flowiseai.com/) | [GitHub](https://github.com/FlowiseAI/Flowise) |
+| <img src="https://www.ray.io/favicon-96x96.png" width="18"> [Ray](https://www.ray.io/) | [📖](https://docs.ray.io/) | [GitHub](https://github.com/ray-project/ray) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
