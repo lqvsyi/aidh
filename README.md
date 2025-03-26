@@ -65,6 +65,11 @@
 | <img src="https://microsoft.github.io/graphrag/assets/images/favicon.png" width="18"> [GraphRAG](https://microsoft.github.io/graphrag/) | [📖](https://github.com/microsoft/graphrag/tree/main/docs) | [GitHub](https://github.com/microsoft/graphrag) |
 | <img src="https://learn.microsoft.com/favicon.ico" width="18"> [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) | [📖](https://github.com/microsoft/semantic-kernel/tree/main/docs) | [GitHub](https://github.com/microsoft/semantic-kernel) |
 | <img src="https://pathway.com/favicon-16x16.png" width="18"> [Pathway](https://pathway.com/) | [📖](https://github.com/pathwaycom/pathway/tree/main/docs/2.developers) | [GitHub](https://github.com/pathwaycom/pathway) |
+| <img src="https://avatars.githubusercontent.com/u/13667124?s=48&v=4" width="18"> [STORM](https://github.com/stanford-oval/storm) |  | ← |
+| <img src="https://tryfastgpt.ai/favicon-16x16.png" width="18"> [FastGPT](https://tryfastgpt.ai/) | [📖](https://doc.tryfastgpt.ai/docs/) | [GitHub](https://github.com/labring/FastGPT) |
+| <img src="https://pathway.com/favicon-16x16.png" width="18"> [llm-app](https://pathway.com/developers/templates) |  | [GitHub](https://github.com/pathwaycom/llm-app) |
+| <img src="https://gin-vue-admin.com/logo.png" width="18"> [gin-vue-admin](https://www.gin-vue-admin.com/) | ← | [GitHub](https://github.com/flipped-aurora/gin-vue-admin) |
+| <img src="https://avatars.githubusercontent.com/u/38466901?s=48&v=4" width="18"> [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 
