@@ -59,7 +59,11 @@
 | <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [llm.c](https://github.com/karpathy/llm.c) | [📖](https://github.com/karpathy/llm.c/tree/master/doc/layernorm) | [GitHub]() |
 | <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [📖]() | [GitHub]() |
 | <img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/665253511c9fe499ba28f6c5_Logo_32x32%20(1).png" width="18"> [Continue](https://www.continue.dev/) | [📖](https://docs.continue.dev/) | [GitHub](https://github.com/continuedev/continue) |
+| <img src="https://composio.dev/wp-content/uploads/2025/02/Fevicon-composio.png" width="18"> [Composio](https://composio.dev/) | [📖](https://docs.composio.dev/) | [GitHub](https://github.com/ComposioHQ/composio) |
+| <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [JARVIS](https://github.com/microsoft/JARVIS) | [📖](https://arxiv.org/pdf/2303.17580.pdf) | ← |
+| <img src="https://openai.justsong.cn/favicon.ico" width="18"> [One API](https://openai.justsong.cn/) | [📖](https://github.com/songquanpeng/one-api/blob/main/docs/API.md) | [GitHub](https://github.com/songquanpeng/one-api) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
 
 TF网站的显示语言建议改成英文，因为它是新的
 
