@@ -23,7 +23,7 @@
 | <img src="https://www.determined.ai/favicon.ico" width="18"> [Determined](https://www.determined.ai/) | [📖](https://docs.determined.ai/latest/) | [GitHub](https://github.com/determined-ai/determined) |
 | <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
 | <img src="https://jupyter.org/favicon.ico" width="18"> [Jupyter](https://jupyter.org/) | [📖](https://docs.jupyter.org/) | [GitHub](https://github.com/jupyter/) |
-| <img src="https://dl.caai.cn/html/images/icon-tushuziyuan.svg" width="18"> [中国人工智能学会](https://caai.cn/) | [📖](https://dl.caai.cn/) | []() |
+| <img src="https://dl.caai.cn/html/images/icon-tushuziyuan.svg" width="18"> [中国人工智能学会](https://caai.cn/) | [📖](https://dl.caai.cn/) |  |
 | <img src="https://oumi.ai/favicon.ico" width="18"> [Oumi](https://oumi.ai/) | [📖](https://oumi.ai/docs/en/latest/index.html) | [GitHub](https://github.com/oumi-ai/oumi) |
 | <img src="https://avatars.githubusercontent.com/u/5512552?s=48&v=4" width="18"> [播客列表](https://github.com/timqian/chinese-independent-blogs) |  | ← |
 | <img src="https://avatars.githubusercontent.com/u/1356007?s=48&v=4" width="18"> [工程博客](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#d-individuals) |  | ← |
@@ -76,9 +76,15 @@
 | <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [unilm](https://aka.ms/GeneralAI) |  | [GitHub](https://github.com/microsoft/unilm) |
 | <img src="https://cherry-ai.com/assets/favicon-BmbgeFTf.png" width="18"> [Cherry Studio](https://cherry-ai.com/) | [📖](https://github.com/CherryHQ/cherry-studio/tree/main/docs) | [GitHub](https://github.com/CherryHQ/cherry-studio) |
 | <img src="https://gptr.dev/favicon.ico" width="18"> [GPT Researcher](https://gptr.dev/) | [📖](https://github.com/assafelovic/gpt-researcher/tree/master/docs) | [GitHub](https://github.com/assafelovic/gpt-researcher) |
+| <img src="https://llm.mlc.ai/assets/img/logo/mlc-favicon.ico" width="18"> [MLC LLM](https://llm.mlc.ai/) | [📖](https://llm.mlc.ai/docs/) | [GitHub](https://github.com/mlc-ai/mlc-llm) |
+| <img src="https://avatars.githubusercontent.com/u/377983?s=48&v=4" width="18"> [互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product) |  | ← |
+| <img src="https://haystack.deepset.ai/favicon.ico" width="18"> [Haystack](https://haystack.deepset.ai/) | [📖](https://docs.haystack.deepset.ai/) | [GitHub](https://github.com/deepset-ai/haystack) |
+| <img src="https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png" width="18"> [LiteLLM](https://www.litellm.ai/) | [📖](https://docs.litellm.ai/) | [GitHub](https://github.com/BerriAI/litellm) |
+| <img src="https://avatars.githubusercontent.com/u/29895268?s=48&v=4" width="18"> [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) |  |  |
+| <img src="https://scrapegraphai.com/favicon.ico" width="18"> [ScrapeGraphAI](https://scrapegraphai.com/) | [📖](https://docs.scrapegraphai.com/) | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
+| <img src="https://avatars.githubusercontent.com/u/16095339?s=48&v=4" width="18"> [中文LLaMA&Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) |  |  |
+| <img src="https://framerusercontent.com/images/R348yc4as6iIdF34K3A0wfAa9Y.png" width="18"> [PandaAI](https://getpanda.ai/) | [📖](https://docs.getpanda.ai/) | [GitHub](https://github.com/sinaptik-ai/pandas-ai) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
-
-
 
 TF网站的显示语言建议改成英文，因为它是新的
 
