@@ -75,6 +75,7 @@
 | <img src="https://avatars.githubusercontent.com/u/31396011?s=48&v=4" width="18"> [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |  | ← |
 | <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [unilm](https://aka.ms/GeneralAI) |  | [GitHub](https://github.com/microsoft/unilm) |
 | <img src="https://cherry-ai.com/assets/favicon-BmbgeFTf.png" width="18"> [Cherry Studio](https://cherry-ai.com/) | [📖](https://github.com/CherryHQ/cherry-studio/tree/main/docs) | [GitHub](https://github.com/CherryHQ/cherry-studio) |
+| <img src="https://gptr.dev/favicon.ico" width="18"> [GPT Researcher](https://gptr.dev/) | [📖](https://github.com/assafelovic/gpt-researcher/tree/master/docs) | [GitHub](https://github.com/assafelovic/gpt-researcher) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 
