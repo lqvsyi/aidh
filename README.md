@@ -70,7 +70,13 @@
 | <img src="https://pathway.com/favicon-16x16.png" width="18"> [llm-app](https://pathway.com/developers/templates) |  | [GitHub](https://github.com/pathwaycom/llm-app) |
 | <img src="https://gin-vue-admin.com/logo.png" width="18"> [gin-vue-admin](https://www.gin-vue-admin.com/) | ← | [GitHub](https://github.com/flipped-aurora/gin-vue-admin) |
 | <img src="https://avatars.githubusercontent.com/u/38466901?s=48&v=4" width="18"> [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |  | ← |
+| <img src="https://cdn.prod.website-files.com/6796d350b8c706e4533e7e32/6796d350b8c706e4533e8019_Favicon%20small.png" width="18"> [Agno](https://agno.com/) | [📖](https://docs.agno.com/) | [GitHub](https://github.com/agno-agi/agno) |
+| <img src="https://avatars.githubusercontent.com/u/117940224?s=48&v=4" width="18"> [llamafile](https://llamafile.ai/) |  | [GitHub](https://github.com/Mozilla-Ocho/llamafile) |
+| <img src="https://avatars.githubusercontent.com/u/31396011?s=48&v=4" width="18"> [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |  | ← |
+| <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [unilm](https://aka.ms/GeneralAI) |  | [GitHub](https://github.com/microsoft/unilm) |
+| <img src="https://cherry-ai.com/assets/favicon-BmbgeFTf.png" width="18"> [Cherry Studio](https://cherry-ai.com/) | [📖](https://github.com/CherryHQ/cherry-studio/tree/main/docs) | [GitHub](https://github.com/CherryHQ/cherry-studio) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
 
 
 TF网站的显示语言建议改成英文，因为它是新的
