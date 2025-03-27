@@ -108,8 +108,9 @@
 | <img src="https://avatars.githubusercontent.com/u/46047812?s=48&v=4" width="18"> [开源大模型食用指南](https://github.com/datawhalechina/self-llm) |  | ← |
 | <img src="https://repomix.com/images/repomix-logo.svg" width="18"> [Repomix](https://repomix.com/) |  | [GitHub](https://github.com/yamadashy/repomix) |
 | <img src="https://avatars.githubusercontent.com/u/28316913?s=48&v=4" width="18"> [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) |  | ← |
+| <img src="https://cdn.prod.website-files.com/635c4eeb78332f7971255095/637853d79d37fd6d81893156_webclip.png" width="18"> [Botpress](https://botpress.com/) | [📖](http://botpress.com/docs/welcome-to-botpress) | [GitHub](https://github.com/botpress/botpress) |
+| <img src="https://avatars.githubusercontent.com/u/33809201?s=48&v=4" width="18"> [RWKV](https://github.com/BlinkDL/RWKV-LM) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
-
 
 TF网站的显示语言建议改成英文，因为它是新的
 
