@@ -57,7 +57,7 @@
 | <img src="https://framerusercontent.com/images/Ekk9VlcIzXMrrfQS4NHj9fdEKKE.png" width="18"> [Mem0](https://mem0.ai/) | [📖](https://docs.mem0.ai/) | [GitHub](https://github.com/mem0ai/mem0) |
 | <img src="https://avatars.githubusercontent.com/u/89920203?s=48&v=4" width="18"> [ChatDev](https://github.com/OpenBMB/ChatDev) | [📖](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md) | ← |
 | <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [llm.c](https://github.com/karpathy/llm.c) | [📖](https://github.com/karpathy/llm.c/tree/master/doc/layernorm) | [GitHub]() |
-| <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [📖]() |  |
+| <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |  | ← |
 | <img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/665253511c9fe499ba28f6c5_Logo_32x32%20(1).png" width="18"> [Continue](https://www.continue.dev/) | [📖](https://docs.continue.dev/) | [GitHub](https://github.com/continuedev/continue) |
 | <img src="https://composio.dev/wp-content/uploads/2025/02/Fevicon-composio.png" width="18"> [Composio](https://composio.dev/) | [📖](https://docs.composio.dev/) | [GitHub](https://github.com/ComposioHQ/composio) |
 | <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [JARVIS](https://github.com/microsoft/JARVIS) | [📖](https://arxiv.org/pdf/2303.17580.pdf) | ← |
