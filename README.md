@@ -1,7 +1,7 @@
 # 人工智能导航
 
 | 名称 | 文档 | 源码 |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | <img src="https://tensorflow.google.cn/favicon.ico" width="18"> [TensorFlow](https://tensorflow.google.cn/) | [📖](https://tensorflow.google.cn/learn) | [GitHub](https://github.com/tensorflow/) |
 | <img src="https://framerusercontent.com/images/xLua1HTBhc2ktuF5x3hJafStVWg.png" width="18"> [AutoGPT](https://agpt.co/) | [📖](https://docs.agpt.co/) | [GitHub](https://github.com/Significant-Gravitas/AutoGPT) |
 | <img src="https://avatars.githubusercontent.com/u/20920490?s=64" width="18"> [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [📖](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) | ← |
