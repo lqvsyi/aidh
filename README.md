@@ -84,6 +84,10 @@
 | <img src="https://scrapegraphai.com/favicon.ico" width="18"> [ScrapeGraphAI](https://scrapegraphai.com/) | [📖](https://docs.scrapegraphai.com/) | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
 | <img src="https://avatars.githubusercontent.com/u/16095339?s=48&v=4" width="18"> [中文LLaMA&Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) |  |  |
 | <img src="https://framerusercontent.com/images/R348yc4as6iIdF34K3A0wfAa9Y.png" width="18"> [PandaAI](https://getpanda.ai/) | [📖](https://docs.getpanda.ai/) | [GitHub](https://github.com/sinaptik-ai/pandas-ai) |
+| <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18"> [PEFT](https://github.com/huggingface/peft) | [📖](https://huggingface.co/docs/peft) | ← |
+| <img src="https://cdn.prod.website-files.com/6683cee6abdeb8fa5407debb/673774ad9d01e095cf92c555_FavIcon.png" width="18"> [CopilotKit](https://www.copilotkit.ai/) | [📖](https://docs.copilotkit.ai/) | [GitHub](https://github.com/CopilotKit/CopilotKit) |
+| <img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" width="18"> [Qwen](https://github.com/QwenLM/Qwen) |  | ← |
+| <img src="https://crawlee.dev/img/favicon.ico" width="18"> [Crawlee](https://crawlee.dev/) | [📖](https://github.com/apify/crawlee/tree/master/docs) | [GitHub](https://github.com/apify/crawlee) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
