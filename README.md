@@ -57,7 +57,7 @@
 | <img src="https://framerusercontent.com/images/Ekk9VlcIzXMrrfQS4NHj9fdEKKE.png" width="18"> [Mem0](https://mem0.ai/) | [📖](https://docs.mem0.ai/) | [GitHub](https://github.com/mem0ai/mem0) |
 | <img src="https://avatars.githubusercontent.com/u/89920203?s=48&v=4" width="18"> [ChatDev](https://github.com/OpenBMB/ChatDev) | [📖](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md) | ← |
 | <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [llm.c](https://github.com/karpathy/llm.c) | [📖](https://github.com/karpathy/llm.c/tree/master/doc/layernorm) | [GitHub]() |
-| <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [📖]() | [GitHub]() |
+| <img src="https://avatars.githubusercontent.com/u/4928832?s=48&v=4" width="18"> [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [📖]() |  |
 | <img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/665253511c9fe499ba28f6c5_Logo_32x32%20(1).png" width="18"> [Continue](https://www.continue.dev/) | [📖](https://docs.continue.dev/) | [GitHub](https://github.com/continuedev/continue) |
 | <img src="https://composio.dev/wp-content/uploads/2025/02/Fevicon-composio.png" width="18"> [Composio](https://composio.dev/) | [📖](https://docs.composio.dev/) | [GitHub](https://github.com/ComposioHQ/composio) |
 | <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [JARVIS](https://github.com/microsoft/JARVIS) | [📖](https://arxiv.org/pdf/2303.17580.pdf) | ← |
@@ -80,14 +80,19 @@
 | <img src="https://avatars.githubusercontent.com/u/377983?s=48&v=4" width="18"> [互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product) |  | ← |
 | <img src="https://haystack.deepset.ai/favicon.ico" width="18"> [Haystack](https://haystack.deepset.ai/) | [📖](https://docs.haystack.deepset.ai/) | [GitHub](https://github.com/deepset-ai/haystack) |
 | <img src="https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png" width="18"> [LiteLLM](https://www.litellm.ai/) | [📖](https://docs.litellm.ai/) | [GitHub](https://github.com/BerriAI/litellm) |
-| <img src="https://avatars.githubusercontent.com/u/29895268?s=48&v=4" width="18"> [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) |  |  |
+| <img src="https://avatars.githubusercontent.com/u/29895268?s=48&v=4" width="18"> [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | [📖](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM/tree/main/doc) | ← |
 | <img src="https://scrapegraphai.com/favicon.ico" width="18"> [ScrapeGraphAI](https://scrapegraphai.com/) | [📖](https://docs.scrapegraphai.com/) | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
-| <img src="https://avatars.githubusercontent.com/u/16095339?s=48&v=4" width="18"> [中文LLaMA&Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) |  |  |
+| <img src="https://avatars.githubusercontent.com/u/16095339?s=48&v=4" width="18"> [中文LLaMA&Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | [📖](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki) | ← |
 | <img src="https://framerusercontent.com/images/R348yc4as6iIdF34K3A0wfAa9Y.png" width="18"> [PandaAI](https://getpanda.ai/) | [📖](https://docs.getpanda.ai/) | [GitHub](https://github.com/sinaptik-ai/pandas-ai) |
 | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18"> [PEFT](https://github.com/huggingface/peft) | [📖](https://huggingface.co/docs/peft) | ← |
 | <img src="https://cdn.prod.website-files.com/6683cee6abdeb8fa5407debb/673774ad9d01e095cf92c555_FavIcon.png" width="18"> [CopilotKit](https://www.copilotkit.ai/) | [📖](https://docs.copilotkit.ai/) | [GitHub](https://github.com/CopilotKit/CopilotKit) |
 | <img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" width="18"> [Qwen](https://github.com/QwenLM/Qwen) |  | ← |
 | <img src="https://crawlee.dev/img/favicon.ico" width="18"> [Crawlee](https://crawlee.dev/) | [📖](https://github.com/apify/crawlee/tree/master/docs) | [GitHub](https://github.com/apify/crawlee) |
+| <img src="https://mintlify.s3-us-west-1.amazonaws.com/agentic/_generated/favicon/favicon-32x32.png?v=3" width="18"> [Agentic](https://agentic.so/) | ← | [GitHub](https://github.com/transitive-bullshit/agentic) |
+| <img src="https://avatars.githubusercontent.com/u/153379578?s=48&v=4" width="18"> [Llama](https://www.llama.com/) | [📖](https://www.llama.com/docs) | [GitHub](https://github.com/meta-llama/llama-cookbook) |
+| <img src="https://avatars.githubusercontent.com/u/46047812?s=48&v=4" width="18"> [LLM Cookbook](https://datawhalechina.github.io/llm-cookbook/#/) | ↔ | [GitHub](https://github.com/datawhalechina/llm-cookbook) |
+| <img src="https://superagi.com/wp-content/uploads/2023/05/Superagi_favicon.png" width="18"> [SuperAGI](https://superagi.com/) |  | [GitHub](https://github.com/TransformerOptimus/SuperAGI) |
+| <img src="http://dbgpt.cn/favicon.ico" width="18"> [DB-GPT](http://dbgpt.cn/) | [📖](http://docs.dbgpt.cn/) | [GitHub](https://github.com/eosphoros-ai/DB-GPT) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
