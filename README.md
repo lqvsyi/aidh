@@ -104,6 +104,8 @@
 | <img src="https://webllm.mlc.ai/assets/img/logo/mlc-favicon.ico" width="18"> [WebLLM](https://webllm.mlc.ai/) | [📖](https://github.com/mlc-ai/web-llm/tree/main/docs) | [GitHub](https://github.com/mlc-ai/web-llm) |
 | <img src="https://maxkb.pro/images/favicon.png" width="18"> [MaxKB](https://maxkb.pro/) | [📖](https://docs.maxkb.pro) | [GitHub](https://github.com/1Panel-dev/MaxKB) |
 | <img src="https://llama.family/favicon.png" width="18"> [Llama中文社区](https://llama.family/) | [📖](https://github.com/LlamaFamily/Llama-Chinese/tree/main/docs) | [GitHub](https://github.com/LlamaFamily/Llama-Chinese) |
+| <img src="https://vanna.ai/favicon-32x32.png" width="18"> [Vanna](https://vanna.ai/) | [📖](https://vanna.ai/docs/) | [GitHub](https://github.com/vanna-ai/vanna) |
+| <img src="https://avatars.githubusercontent.com/u/46047812?s=48&v=4" width="18"> [开源大模型食用指南](https://github.com/datawhalechina/self-llm) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
