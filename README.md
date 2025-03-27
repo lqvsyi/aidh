@@ -96,7 +96,10 @@
 | <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" width="18"> [Evals](https://github.com/openai/evals) | [📖](https://github.com/openai/evals/tree/main/docs) | ← |
 | <img src="https://avatars.githubusercontent.com/u/13220186?s=48&v=4" width="18"> [llm-action](https://github.com/liguodongiot/llm-action) | [📖](https://github.com/liguodongiot/llm-action/tree/main/docs) | ← |
 | <img src="https://kubesphere.io/images/favicons/favicon.ico" width="18"> [KubeSphere](https://kubesphere.io/) | [📖](https://kubesphere.io/docs/) | [GitHub](https://github.com/kubesphere/kubesphere) |
-| <img src="https://framerusercontent.com/images/ndfH4rzQSikqvfYsKFqWOH6YTY.png" width="18"> [RagaAI](https://raga.ai/) | [📖]() | [GitHub](https://github.com/raga-ai-hub/RagaAI-Catalyst) |
+| <img src="https://framerusercontent.com/images/ndfH4rzQSikqvfYsKFqWOH6YTY.png" width="18"> [RagaAI](https://raga.ai/) | [📖](https://docs.raga.ai/) | [GitHub](https://github.com/raga-ai-hub/RagaAI-Catalyst) |
+| <img src="https://cdn.prod.website-files.com/66b5f39db6c9510dc8cbe834/66e475a805c377549bb32e16_favicon.png" width="18"> [Letta](https://www.letta.com/) | [📖](https://docs.letta.com/) | [GitHub](https://github.com/letta-ai/letta) |
+| <img src="https://www.docsgpt.cloud/_astro/favicon.Ctrw2PPr.ico" width="18"> [DocsGPT](https://www.docsgpt.cloud/) | [📖](https://docs.docsgpt.cloud/) | [GitHub](https://github.com/arc53/DocsGPT) |
+| <img src="https://avatars.githubusercontent.com/u/51039745?s=48&v=4" width="18"> [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | [📖](https://github.com/GaiZhenbiao/ChuanhuChatGPT/wiki) |  |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
