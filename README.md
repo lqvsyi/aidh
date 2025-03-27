@@ -94,7 +94,7 @@
 | <img src="https://superagi.com/wp-content/uploads/2023/05/Superagi_favicon.png" width="18"> [SuperAGI](https://superagi.com/) |  | [GitHub](https://github.com/TransformerOptimus/SuperAGI) |
 | <img src="http://dbgpt.cn/favicon.ico" width="18"> [DB-GPT](http://dbgpt.cn/) | [📖](http://docs.dbgpt.cn/) | [GitHub](https://github.com/eosphoros-ai/DB-GPT) |
 | <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" width="18"> [Evals](https://github.com/openai/evals) | [📖](https://github.com/openai/evals/tree/main/docs) | ← |
-| <img src="" width="18"> []() | [📖]() | [GitHub]() |
+| <img src="https://avatars.githubusercontent.com/u/13220186?s=48&v=4" width="18"> [](https://github.com/liguodongiot/llm-action) | [📖](https://github.com/liguodongiot/llm-action/tree/main/docs) | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
