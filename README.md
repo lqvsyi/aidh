@@ -106,7 +106,10 @@
 | <img src="https://llama.family/favicon.png" width="18"> [Llama中文社区](https://llama.family/) | [📖](https://github.com/LlamaFamily/Llama-Chinese/tree/main/docs) | [GitHub](https://github.com/LlamaFamily/Llama-Chinese) |
 | <img src="https://vanna.ai/favicon-32x32.png" width="18"> [Vanna](https://vanna.ai/) | [📖](https://vanna.ai/docs/) | [GitHub](https://github.com/vanna-ai/vanna) |
 | <img src="https://avatars.githubusercontent.com/u/46047812?s=48&v=4" width="18"> [开源大模型食用指南](https://github.com/datawhalechina/self-llm) |  | ← |
+| <img src="https://repomix.com/images/repomix-logo.svg" width="18"> [Repomix](https://repomix.com/) |  | [GitHub](https://github.com/yamadashy/repomix) |
+| <img src="https://avatars.githubusercontent.com/u/28316913?s=48&v=4" width="18"> [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
 
 TF网站的显示语言建议改成英文，因为它是新的
 
