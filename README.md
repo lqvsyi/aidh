@@ -99,9 +99,11 @@
 | <img src="https://framerusercontent.com/images/ndfH4rzQSikqvfYsKFqWOH6YTY.png" width="18"> [RagaAI](https://raga.ai/) | [📖](https://docs.raga.ai/) | [GitHub](https://github.com/raga-ai-hub/RagaAI-Catalyst) |
 | <img src="https://cdn.prod.website-files.com/66b5f39db6c9510dc8cbe834/66e475a805c377549bb32e16_favicon.png" width="18"> [Letta](https://www.letta.com/) | [📖](https://docs.letta.com/) | [GitHub](https://github.com/letta-ai/letta) |
 | <img src="https://www.docsgpt.cloud/_astro/favicon.Ctrw2PPr.ico" width="18"> [DocsGPT](https://www.docsgpt.cloud/) | [📖](https://docs.docsgpt.cloud/) | [GitHub](https://github.com/arc53/DocsGPT) |
-| <img src="https://avatars.githubusercontent.com/u/51039745?s=48&v=4" width="18"> [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | [📖](https://github.com/GaiZhenbiao/ChuanhuChatGPT/wiki) |  |
+| <img src="https://avatars.githubusercontent.com/u/51039745?s=48&v=4" width="18"> [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | [📖](https://github.com/GaiZhenbiao/ChuanhuChatGPT/wiki) | ← |
 | <img src="https://swe-agent.com/latest/assets/favicon.ico" width="18"> [SWE-agent](https://swe-agent.com) | [📖](https://github.com/SWE-agent/SWE-agent/tree/main/docs) | [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | <img src="https://webllm.mlc.ai/assets/img/logo/mlc-favicon.ico" width="18"> [WebLLM](https://webllm.mlc.ai/) | [📖](https://github.com/mlc-ai/web-llm/tree/main/docs) | [GitHub](https://github.com/mlc-ai/web-llm) |
+| <img src="https://maxkb.pro/images/favicon.png" width="18"> [MaxKB](https://maxkb.pro/) | [📖](https://docs.maxkb.pro) | [GitHub](https://github.com/1Panel-dev/MaxKB) |
+| <img src="https://llama.family/favicon.png" width="18"> [Llama中文社区](https://llama.family/) | [📖](https://github.com/LlamaFamily/Llama-Chinese/tree/main/docs) | [GitHub](https://github.com/LlamaFamily/Llama-Chinese) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
