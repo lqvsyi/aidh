@@ -116,7 +116,7 @@
 | <img src="https://avatars.githubusercontent.com/u/121128867?s=48&v=4" width="18"> [Dalai](https://cocktailpeanut.github.io/dalai) | [📖](https://github.com/cocktailpeanut/dalai/tree/main/docs) | [GitHub](https://github.com/cocktailpeanut/dalai) |
 | <img src="https://sdk.vercel.ai/favicon.ico" width="18"> [AI SDK](https://sdk.vercel.ai/) | [📖](https://sdk.vercel.ai/docs/introduction) | [GitHub](https://github.com/vercel/ai) |
 | <img src="https://sillytavern.app/favicon.ico" width="18"> [SillyTavern](https://sillytavern.app/) | [📖](https://docs.sillytavern.app/) | [GitHub](https://github.com/SillyTavern/SillyTavern) |
-| <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [BitNet](https://github.com/microsoft/BitNet/tree/main/docs) | [📖](https://github.com/microsoft/BitNet/tree/main/docs) | ← |
+| <img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="18"> [BitNet](https://github.com/microsoft/BitNet/) | [📖](https://github.com/microsoft/BitNet/tree/main/docs) | ← |
 | <img src="https://avatars.githubusercontent.com/u/45159366?s=48&v=4" width="18"> [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) |  | ← |
 | <img src="https://screenpi.pe/favicon.ico" width="18"> [screenpipe](https://screenpi.pe/) | [📖](https://docs.screenpi.pe) | [GitHub](https://github.com/mediar-ai/screenpipe) |
 | <img src="https://framerusercontent.com/images/5ogRD2M5bFMrte1IoP41nBDT0ro.png" width="18"> [Skyvern](https://www.skyvern.com/) | [📖](https://docs.skyvern.com/) | [GitHub](https://framerusercontent.com/images/5ogRD2M5bFMrte1IoP41nBDT0ro.png) |
