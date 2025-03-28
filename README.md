@@ -120,6 +120,9 @@
 | <img src="https://avatars.githubusercontent.com/u/45159366?s=48&v=4" width="18"> [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) |  | ← |
 | <img src="https://screenpi.pe/favicon.ico" width="18"> [screenpipe](https://screenpi.pe/) | [📖](https://docs.screenpi.pe) | [GitHub](https://github.com/mediar-ai/screenpipe) |
 | <img src="https://framerusercontent.com/images/5ogRD2M5bFMrte1IoP41nBDT0ro.png" width="18"> [Skyvern](https://www.skyvern.com/) | [📖](https://docs.skyvern.com/) | [GitHub](https://framerusercontent.com/images/5ogRD2M5bFMrte1IoP41nBDT0ro.png) |
+| <img src="https://docs.sglang.ai/_static/logo.ico" width="18"> [SGLang](https://github.com/sgl-project/sglang) | [📖](https://docs.sglang.ai/) | ← |
+| <img src="https://avatars.githubusercontent.com/u/23534030?s=48&v=4" width="18"> [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | [📖](https://paddlenlp.readthedocs.io/) | ← |
+| <img src="https://www.activepieces.com/favicon.ico" width="18"> [Activepieces](https://www.activepieces.com/) | [📖](https://www.activepieces.com/docs/) | [GitHub](https://github.com/activepieces/activepieces) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
