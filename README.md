@@ -117,6 +117,7 @@
 | <img src="https://sdk.vercel.ai/favicon.ico" width="18"> [AI SDK](https://sdk.vercel.ai/) | [📖](https://sdk.vercel.ai/docs/introduction) | [GitHub](https://github.com/vercel/ai) |
 | <img src="https://sillytavern.app/favicon.ico" width="18"> [SillyTavern](https://sillytavern.app/) | [📖](https://docs.sillytavern.app/) | [GitHub](https://github.com/SillyTavern/SillyTavern) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+| <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
 
