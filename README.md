@@ -112,6 +112,8 @@
 | <img src="https://avatars.githubusercontent.com/u/33809201?s=48&v=4" width="18"> [RWKV](https://github.com/BlinkDL/RWKV-LM) |  | ← |
 | <img src="https://stasosphere.com/favicon.ico" width="18"> [ml-engineering](https://stasosphere.com/machine-learning/) |  | [GitHub](https://github.com/stas00/ml-engineering) |
 | <img src="https://avatars.githubusercontent.com/u/118165258?s=48&v=4" width="18"> [LightRAG](https://arxiv.org/abs/2410.05779) | [📖](https://github.com/HKUDS/LightRAG/tree/main/docs) | [GitHub](https://github.com/HKUDS/LightRAG) |
+| <img src="https://kvcache-ai.github.io/ktransformers/favicon.svg" width="18"> [KTransformers](https://kvcache-ai.github.io/ktransformers/) | [📖](https://github.com/kvcache-ai/ktransformers/tree/main/doc) | [GitHub](https://github.com/kvcache-ai/ktransformers) |
+| <img src="" width="18"> [Dalai](https://cocktailpeanut.github.io/dalai) | [📖](https://github.com/cocktailpeanut/dalai/tree/main/docs) | [GitHub](https://github.com/cocktailpeanut/dalai) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
