@@ -123,6 +123,9 @@
 | <img src="https://docs.sglang.ai/_static/logo.ico" width="18"> [SGLang](https://github.com/sgl-project/sglang) | [📖](https://docs.sglang.ai/) | ← |
 | <img src="https://avatars.githubusercontent.com/u/23534030?s=48&v=4" width="18"> [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | [📖](https://paddlenlp.readthedocs.io/) | ← |
 | <img src="https://www.activepieces.com/favicon.ico" width="18"> [Activepieces](https://www.activepieces.com/) | [📖](https://www.activepieces.com/docs/) | [GitHub](https://github.com/activepieces/activepieces) |
+| <img src="https://avatars.githubusercontent.com/u/145479774?s=48&v=4" width="18"> [llmware](https://llmware-ai.github.io/llmware//llmware/) | [📖](https://github.com/llmware-ai/llmware/tree/main/docs) | [GitHub](https://github.com/llmware-ai/llmware) |
+| <img src="https://avatars.githubusercontent.com/u/30296397?s=48&v=4" width="18"> [Gorilla](https://github.com/ShishirPatil/gorilla) |  | ← |
+| <img src="https://lightning.ai/favicon/favicon.ico" width="18"> [LitGPT](https://github.com/Lightning-AI/litgpt) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
