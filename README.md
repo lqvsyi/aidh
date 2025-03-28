@@ -111,6 +111,7 @@
 | <img src="https://cdn.prod.website-files.com/635c4eeb78332f7971255095/637853d79d37fd6d81893156_webclip.png" width="18"> [Botpress](https://botpress.com/) | [📖](http://botpress.com/docs/welcome-to-botpress) | [GitHub](https://github.com/botpress/botpress) |
 | <img src="https://avatars.githubusercontent.com/u/33809201?s=48&v=4" width="18"> [RWKV](https://github.com/BlinkDL/RWKV-LM) |  | ← |
 | <img src="https://stasosphere.com/favicon.ico" width="18"> [ml-engineering](https://stasosphere.com/machine-learning/) |  | [GitHub](https://github.com/stas00/ml-engineering) |
+| <img src="https://avatars.githubusercontent.com/u/118165258?s=48&v=4" width="18"> [LightRAG](https://arxiv.org/abs/2410.05779) | [📖](https://github.com/HKUDS/LightRAG/tree/main/docs) | [GitHub](https://github.com/HKUDS/LightRAG) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
