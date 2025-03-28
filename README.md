@@ -6,7 +6,7 @@
 | <img src="https://framerusercontent.com/images/xLua1HTBhc2ktuF5x3hJafStVWg.png" width="18"> [AutoGPT](https://agpt.co/) | [📖](https://docs.agpt.co/) | [GitHub](https://github.com/Significant-Gravitas/AutoGPT) |
 | <img src="https://avatars.githubusercontent.com/u/20920490?s=64" width="18"> [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [📖](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) | ← |
 | <img src="https://huggingface.co/favicon.ico" width="18"> [Hugging Face](https://huggingface.co/) | [📖](https://huggingface.co/Docs) | [GitHub](https://github.com/huggingface/) |
-| <img src="https://huggingface.co/favicon.ico" width="18"> [Transformers Docs](https://huggingface.co/transformers/) | ← | [GitHub](https://github.com/huggingface/transformers) |
+| <img src="https://huggingface.co/favicon.ico" width="18"> [Transformers](https://huggingface.co/transformers/) | ← | [GitHub](https://github.com/huggingface/transformers) |
 | <img src="https://ollama.com/public/icon-64x64.png" width="18"> [Ollama](https://ollama.com/) | [📖](https://github.com/ollama/ollama/tree/main/docs) | [GitHub](https://github.com/ollama/ollama) |
 | <img src="https://pytorch.org/favicon.ico" width="18"> [PyTorch](https://pytorch.org/) | [📖](https://pytorch.org/docs/stable/index.html) | [GitHub](https://github.com/pytorch) |
 | <img src="https://www.mindspore.cn/favicon.ico" width="18"> [MindSpore](https://www.mindspore.cn/) | [📖](https://www.mindspore.cn/view) | [Gitee](https://gitee.com/mindspore/mindspore) |
