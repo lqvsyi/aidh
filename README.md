@@ -130,6 +130,8 @@
 | <img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1742916544566/h2o-logo.svg" width="18"> [h2oGPT](https://h2o.ai/) | [📖](https://github.com/h2oai/h2ogpt/tree/main/docs) | [GitHub](https://github.com/h2oai/h2ogpt) |
 | <img src="https://mastra.ai/favicon/favicon.ico" width="18"> [Mastra](https://mastra.ai/) | [📖](https://mastra.ai/docs) | [GitHub](https://github.com/mastra-ai/mastra) |
 | <img src="https://ludwig.ai/latest/favicon.ico" width="18"> [Ludwig](https://ludwig.ai/) |  | [GitHub](https://github.com/ludwig-ai/ludwig) |
+| <img src="https://plandex.ai/favicon.ico" width="18"> [plandex](https://plandex.ai/) | [📖](https://docs.plandex.ai) | [GitHub](https://github.com/plandex-ai/plandex) |
+| <img src="https://avatars.githubusercontent.com/u/54706620?s=48&v=4" width="18"> [LLMSurvey](https://arxiv.org/abs/2303.18223) |  | [GitHub](https://github.com/RUCAIBox/LLMSurvey) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
