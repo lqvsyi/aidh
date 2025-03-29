@@ -126,6 +126,8 @@
 | <img src="https://avatars.githubusercontent.com/u/145479774?s=48&v=4" width="18"> [llmware](https://llmware-ai.github.io/llmware//llmware/) | [📖](https://github.com/llmware-ai/llmware/tree/main/docs) | [GitHub](https://github.com/llmware-ai/llmware) |
 | <img src="https://avatars.githubusercontent.com/u/30296397?s=48&v=4" width="18"> [Gorilla](https://github.com/ShishirPatil/gorilla) |  | ← |
 | <img src="https://lightning.ai/favicon/favicon.ico" width="18"> [LitGPT](https://github.com/Lightning-AI/litgpt) |  | ← |
+| <img src="https://avatars.githubusercontent.com/u/6831355?s=48&v=4" width="18"> [Open LLMs](https://github.com/eugeneyan/open-llms) |  | ← |
+| <img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1742916544566/h2o-logo.svg" width="18"> [h2oGPT](https://h2o.ai/) | [📖](https://github.com/h2oai/h2ogpt/tree/main/docs) | [GitHub](https://github.com/h2oai/h2ogpt) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
