@@ -134,7 +134,10 @@
 | <img src="https://avatars.githubusercontent.com/u/54706620?s=48&v=4" width="18"> [LLMSurvey](https://arxiv.org/abs/2303.18223) |  | [GitHub](https://github.com/RUCAIBox/LLMSurvey) |
 | <img src="https://voideditor.com/icon.png" width="18"> [Void](https://voideditor.com/) |  | [GitHub](https://github.com/voideditor/void) |
 | <img src="https://avatars.githubusercontent.com/u/48590610?s=48&v=4" width="18"> [CogVideo](https://github.com/THUDM/CogVideo) |  | ← |
+| <img src="https://www.bentoml.com/bentoml-favicon/favicon-32x32.png" width="18"> [OpenLLM](https://www.bentoml.com/) | [📖](https://docs.bentoml.com/) | [GitHub](https://github.com/bentoml/OpenLLM) |
+| <img src="https://block.github.io/goose/img/favicon.ico" width="18"> [Goose](https://block.github.io/goose/) | [📖](https://block.github.io/goose/docs/) | [GitHub](https://github.com/block/goose) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
 
 TF网站的显示语言建议改成英文，因为它是新的
 
