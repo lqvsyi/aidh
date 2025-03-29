@@ -132,6 +132,8 @@
 | <img src="https://ludwig.ai/latest/favicon.ico" width="18"> [Ludwig](https://ludwig.ai/) |  | [GitHub](https://github.com/ludwig-ai/ludwig) |
 | <img src="https://plandex.ai/favicon.ico" width="18"> [plandex](https://plandex.ai/) | [📖](https://docs.plandex.ai) | [GitHub](https://github.com/plandex-ai/plandex) |
 | <img src="https://avatars.githubusercontent.com/u/54706620?s=48&v=4" width="18"> [LLMSurvey](https://arxiv.org/abs/2303.18223) |  | [GitHub](https://github.com/RUCAIBox/LLMSurvey) |
+| <img src="https://voideditor.com/icon.png" width="18"> [Void](https://voideditor.com/) |  | [GitHub](https://github.com/voideditor/void) |
+| <img src="https://avatars.githubusercontent.com/u/48590610?s=48&v=4" width="18"> [CogVideo](https://github.com/THUDM/CogVideo) |  | ← |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
