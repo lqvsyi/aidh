@@ -142,7 +142,10 @@
 | <img src="https://avatars.githubusercontent.com/u/5667695?s=48&v=4" width="18"> [olmOCR](https://github.com/allenai/olmocr) |  | ← |
 | <img src="https://neuml.github.io/txtai/images/logo.png" width="18"> [txtai](https://neuml.github.io/txtai/) | [📖](https://github.com/neuml/txtai/tree/master/docs) | [GitHub](https://github.com/neuml/txtai) |
 | <img src="https://avatars.githubusercontent.com/u/16740832?s=48&v=4" width="18"> [ShellGPT](https://github.com/TheR1D/shell_gpt) |  | ← |
+| <img src="https://avatars.githubusercontent.com/u/11949572?s=48&v=4" width="18"> [QLoRA](https://arxiv.org/abs/2305.14314) |  | [GitHub](https://github.com/artidoro/qlora) |
+| <img src="https://microsoft.github.io/promptflow/_static/logo32.ico" width="18"> [Prompt flow](https://microsoft.github.io/promptflow/) | [📖](https://github.com/microsoft/promptflow/tree/main/docs) | [GitHub](https://github.com/microsoft/promptflow) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
 
 
 TF网站的显示语言建议改成英文，因为它是新的
