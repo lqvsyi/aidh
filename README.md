@@ -146,6 +146,8 @@
 | <img src="https://microsoft.github.io/promptflow/_static/logo32.ico" width="18"> [Prompt flow](https://microsoft.github.io/promptflow/) | [📖](https://github.com/microsoft/promptflow/tree/main/docs) | [GitHub](https://github.com/microsoft/promptflow) |
 | <img src="https://www.mnn.zone/m/0.3/images/favicon.png" width="18"> [MNN](http://www.mnn.zone/) | [📖](https://github.com/alibaba/MNN/tree/master/docs) | [GitHub](https://github.com/alibaba/MNN) |
 | <img src="https://mistral.ai/favicon.ico" width="18"> [Mistral Inference](https://mistral.ai/) |  | [GitHub](https://github.com/mistralai/mistral-inference) |
+| <img src="https://burn.dev/favicon.svg" width="13"> [Burn](https://burn.dev/) | [📖](https://burn.dev/docs/burn/) | [GitHub](https://github.com/tracel-ai/burn) |
+| <img src="https://xiaozhi.me/favicon.ico" width="18"> [小智 AI 聊天机器人](https://xiaozhi.me/) | [📖](https://github.com/78/xiaozhi-esp32/tree/main/docs) | [GitHub](https://github.com/78/xiaozhi-esp32) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 
