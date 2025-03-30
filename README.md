@@ -144,8 +144,9 @@
 | <img src="https://avatars.githubusercontent.com/u/16740832?s=48&v=4" width="18"> [ShellGPT](https://github.com/TheR1D/shell_gpt) |  | ← |
 | <img src="https://avatars.githubusercontent.com/u/11949572?s=48&v=4" width="18"> [QLoRA](https://arxiv.org/abs/2305.14314) |  | [GitHub](https://github.com/artidoro/qlora) |
 | <img src="https://microsoft.github.io/promptflow/_static/logo32.ico" width="18"> [Prompt flow](https://microsoft.github.io/promptflow/) | [📖](https://github.com/microsoft/promptflow/tree/main/docs) | [GitHub](https://github.com/microsoft/promptflow) |
+| <img src="https://www.mnn.zone/m/0.3/images/favicon.png" width="18"> [MNN](http://www.mnn.zone/) | [📖](https://github.com/alibaba/MNN/tree/master/docs) | [GitHub](https://github.com/alibaba/MNN) |
+| <img src="https://mistral.ai/favicon.ico" width="18"> [Mistral Inference](https://mistral.ai/) |  | [GitHub](https://github.com/mistralai/mistral-inference) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
-
 
 
 TF网站的显示语言建议改成英文，因为它是新的
