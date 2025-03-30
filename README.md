@@ -148,8 +148,9 @@
 | <img src="https://mistral.ai/favicon.ico" width="18"> [Mistral Inference](https://mistral.ai/) |  | [GitHub](https://github.com/mistralai/mistral-inference) |
 | <img src="https://burn.dev/favicon.svg" width="13"> [Burn](https://burn.dev/) | [📖](https://burn.dev/docs/burn/) | [GitHub](https://github.com/tracel-ai/burn) |
 | <img src="https://xiaozhi.me/favicon.ico" width="18"> [小智 AI 聊天机器人](https://xiaozhi.me/) | [📖](https://github.com/78/xiaozhi-esp32/tree/main/docs) | [GitHub](https://github.com/78/xiaozhi-esp32) |
+| <img src="https://docs.langbot.app/favicon.ico" width="18"> [LangBot](https://langbot.app/) | ← | [GitHub](https://github.com/RockChinQ/LangBot) |
+| <img src="https://avatars.githubusercontent.com/u/1728152?s=48&v=4" width="18"> [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) | ← | [GitHub](https://github.com/NVIDIA/TensorRT-LLM) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
-
 
 TF网站的显示语言建议改成英文，因为它是新的
 
