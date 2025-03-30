@@ -4,12 +4,8 @@
 
 | 名称 | 文档 | 源码 |
 | --- | :---: | :---: |
-| <img src="https://tensorflow.google.cn/favicon.ico" width="18"> [TensorFlow](https://tensorflow.google.cn/) | [📖](https://tensorflow.google.cn/learn) | [GitHub](https://github.com/tensorflow/) |
-| <img src="https://pytorch.org/favicon.ico" width="18"> [PyTorch](https://pytorch.org/) | [📖](https://pytorch.org/docs/stable/index.html) | [GitHub](https://github.com/pytorch) |
-| <img src="https://www.mindspore.cn/favicon.ico" width="18"> [MindSpore](https://www.mindspore.cn/) | [📖](https://www.mindspore.cn/view) | [Gitee](https://gitee.com/mindspore/mindspore) |
-| <img src="https://lobehub.com/favicon.ico" width="18"> [Lobe Chat](https://lobehub.com/zh) | [📖](https://lobehub.com/zh/docs/usage/start) | [GitHub](https://github.com/lobehub/lobe-chat) |
 | <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
-
+| <img src="https://www.determined.ai/favicon.ico" width="18"> [Determined](https://www.determined.ai/) | [📖](https://docs.determined.ai/latest/) | [GitHub](https://github.com/determined-ai/determined) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 <hr>
