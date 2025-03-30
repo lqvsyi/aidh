@@ -7,6 +7,7 @@
 | <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
 | <img src="https://www.determined.ai/favicon.ico" width="18"> [Determined](https://www.determined.ai/) | [📖](https://docs.determined.ai/latest/) | [GitHub](https://github.com/determined-ai/determined) |
 | <img src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png" width="18"> [Dify](https://dify.ai/) | [📖](https://docs.dify.ai/) | [GitHub](https://github.com/langgenius/dify) |
+| <img src="https://n8n.io/favicon.ico" width="18"> [n8n](https://n8n.io/secops/) | [📖](https://docs.n8n.io/) | [GitHub](https://github.com/n8n-io/n8n) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 <hr>
