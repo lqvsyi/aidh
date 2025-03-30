@@ -150,6 +150,8 @@
 | <img src="https://xiaozhi.me/favicon.ico" width="18"> [小智 AI 聊天机器人](https://xiaozhi.me/) | [📖](https://github.com/78/xiaozhi-esp32/tree/main/docs) | [GitHub](https://github.com/78/xiaozhi-esp32) |
 | <img src="https://docs.langbot.app/favicon.ico" width="18"> [LangBot](https://langbot.app/) | ← | [GitHub](https://github.com/RockChinQ/LangBot) |
 | <img src="https://avatars.githubusercontent.com/u/1728152?s=48&v=4" width="18"> [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) | ← | [GitHub](https://github.com/NVIDIA/TensorRT-LLM) |
+| <img src="https://framerusercontent.com/sites/icons/default-favicon.v3.png" width="18"> [Instructor](https://useinstructor.com/) | [📖](https://python.useinstructor.com/) | [GitHub](https://github.com/instructor-ai/instructor) |
+| <img src="https://www.gstatic.com/devrel-devsite/prod/v63a7e59e7b93b62eb99aa3751cce206090432f0c0d09ff73f0d3636dcec4ab60/cloud/images/favicons/onecloud/super_cloud.png" width="18"> [Generative AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview) | ← | [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 TF网站的显示语言建议改成英文，因为它是新的
