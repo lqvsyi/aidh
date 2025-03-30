@@ -154,6 +154,8 @@
 | <img src="https://www.gstatic.com/devrel-devsite/prod/v63a7e59e7b93b62eb99aa3751cce206090432f0c0d09ff73f0d3636dcec4ab60/cloud/images/favicons/onecloud/super_cloud.png" width="18"> [Generative AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview) | ← | [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) |
 | <img src="https://langfuse.com/favicon-32x32.png" width="18"> [Langfuse](https://langfuse.com/) | [📖](https://langfuse.com/docs) | [GitHub](https://github.com/langfuse/langfuse) |
 | <img src="https://avatars.githubusercontent.com/u/37475129?s=48&v=4" width="18"> [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |  | ← |
+| <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [minbpe](https://github.com/karpathy/minbpe) |  | ← |
+| <img src="https://petals.dev/logo.svg" width="18"> [Petals](https://petals.dev/) |  | [GitHub](https://github.com/bigscience-workshop/petals) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 
