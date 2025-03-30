@@ -1,5 +1,21 @@
 # 人工智能导航
 
+## 精选
+
+| 名称 | 文档 | 源码 |
+| --- | :---: | :---: |
+| <img src="https://tensorflow.google.cn/favicon.ico" width="18"> [TensorFlow](https://tensorflow.google.cn/) | [📖](https://tensorflow.google.cn/learn) | [GitHub](https://github.com/tensorflow/) |
+| <img src="https://pytorch.org/favicon.ico" width="18"> [PyTorch](https://pytorch.org/) | [📖](https://pytorch.org/docs/stable/index.html) | [GitHub](https://github.com/pytorch) |
+| <img src="https://www.mindspore.cn/favicon.ico" width="18"> [MindSpore](https://www.mindspore.cn/) | [📖](https://www.mindspore.cn/view) | [Gitee](https://gitee.com/mindspore/mindspore) |
+| <img src="https://lobehub.com/favicon.ico" width="18"> [Lobe Chat](https://lobehub.com/zh) | [📖](https://lobehub.com/zh/docs/usage/start) | [GitHub](https://github.com/lobehub/lobe-chat) |
+| <img src="https://netron.app/favicon.ico" width="18"> [Netron](https://netron.app/) | | [GitHub](https://github.com/lutzroeder/netron) |
+
+| <img src="" width="18"> []() | [📖]() | [GitHub]() |
+
+<hr>
+
+## 乱的
+
 | 名称 | 文档 | 源码 |
 | --- | :---: | :---: |
 | <img src="https://tensorflow.google.cn/favicon.ico" width="18"> [TensorFlow](https://tensorflow.google.cn/) | [📖](https://tensorflow.google.cn/learn) | [GitHub](https://github.com/tensorflow/) |
@@ -157,7 +173,6 @@
 | <img src="https://avatars.githubusercontent.com/u/241138?s=48&v=4" width="18"> [minbpe](https://github.com/karpathy/minbpe) |  | ← |
 | <img src="https://petals.dev/logo.svg" width="18"> [Petals](https://petals.dev/) |  | [GitHub](https://github.com/bigscience-workshop/petals) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
-
 
 TF网站的显示语言建议改成英文，因为它是新的
 
