@@ -10,6 +10,7 @@
 | <img src="https://motia.dev/favicon.ico" width="18"> [Motia](https://motia.dev/) | [📖](https://motia.dev/docs) | [GitHub](https://github.com/MotiaDev/motia) |
 | <img src="https://browserai.dev/favicon.png" width="18"> [BrowserAI](https://browserai.dev/) | [📖](https://docs.browserai.dev/) | [GitHub](https://github.com/Cloud-Code-AI/BrowserAI) |
 | <img src="https://framerusercontent.com/images/JQfxQmeLdXnp7G5CimbdSalIE.png" width="18"> [Langtrace](https://www.langtrace.ai/) | [📖](https://docs.langtrace.ai/) | [GitHub](https://github.com/Scale3-Labs/langtrace#-features) |
+| <img src="https://www.helicone.ai/favicon.ico" width="18"> [Helicone](https://www.helicone.ai/) | [📖](https://docs.helicone.ai/) | [GitHub](https://github.com/Helicone/helicone) |
 | <img src="" width="18"> []() | [📖]() | [GitHub]() |
 
 [社区](https://pd.qq.com/s/btedy8g4v?businessType=9) | [GitHub](https://github.com/lqvsyi/aidh/) | [捐款](https://lqvsyi.github.io/aidh/jk)
